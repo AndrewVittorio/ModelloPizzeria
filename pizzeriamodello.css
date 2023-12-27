@@ -139,17 +139,7 @@ div#testa {
 div#testa button a {
     color: white;
     text-decoration: none;
-    padding: 0px 10px;
-}
-
-div#testa button {
-    padding: 15px;
-    background-color: black;
-    border-radius: 32px;
-    border: 2px solid orangered;
-}
-
-
+    padding: 0px 10px; }
 
 
 
